@@ -9,7 +9,7 @@ def readme():
 setup(
     name='lines-methods',
     version='0.0.1',
-    author='ugryumov_av',
+    author='UgryumovAV',
     author_email='ugriumov2102@gmail.com',
     description='This is the simplest module for quick work with 2D vectors',
     long_description=readme(),
@@ -24,7 +24,7 @@ setup(
     ],
     keywords='lines methods ',
     project_urls={
-    'GitHub': 'https://github.com/UgryumovAV'
+    'GitHub': 'https://github.com/UgryumovAV/lines_methods/'
     },
     python_requires='>=3.8'
 )
